@@ -1,0 +1,10 @@
+beach-tennis-tournaments/
+├── frontend/             # Projeto React
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...outros arquivos do React
+└── backend/              # Projeto Python (Flask)
+    ├── venv/             # Ambiente virtual Python
+    ├── app.py            # Nosso arquivo Flask principal
+    └── ...outros arquivos do Flask
